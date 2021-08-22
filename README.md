@@ -46,13 +46,13 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 ## Edit disini
-Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
+Buka nih [`Ramlan.json`](https://github.com/dvlgaming/pemula/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
     "botName": "DEVIL BOT",
     "ownerName": "DEVIL STORE,
     "ownerNumbers": "62882*******",
-    "ZeksApi": "apivinz",
+    "ZeksApi": "ead0dba2b51565d79bd02968",
     "botPrefix": "#",
     "GrupLimitz": "0",
     "autor": "DEVILBOTZ",
