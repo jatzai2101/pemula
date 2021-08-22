@@ -129,7 +129,7 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ◯ *DAFTAR SEWA & BUAT BOT :*
 ◯ *SEWA : 10K/GRUP (MANEN)*
 ◯ *PEMBAYARAN BISA MELALUI :*
-◯ *GOPAY*
+◯ *GOPAY,QRIS*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
