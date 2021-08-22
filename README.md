@@ -82,7 +82,7 @@ Buka nih [`Ramlan.json`](https://github.com/dvlgaming/pemula/edit/main/settings/
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi DEVILBOTZ`]()
+* [`Donasi DEVILBOTZ`](https://saweria.co/Dvlgaming)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
