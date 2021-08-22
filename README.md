@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Devil
 <p align="center">
 <p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 </p>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DEVIL BOTZ" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 TO DEVIL BOTZ
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -49,15 +49,15 @@ Siapin alat dan bahannya.
 Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
-    "botName": "BABY BOT",
-    "ownerName": "RAMLAN ID",
-    "ownerNumbers": "62855xxxxxxxx",
+    "botName": "DEVIL BOT",
+    "ownerName": "DEVIL STORE,
+    "ownerNumbers": "62882*******",
     "ZeksApi": "apivinz",
-    "botPrefix": "!",
+    "botPrefix": "#",
     "GrupLimitz": "0",
-    "autor": "MrR4M",
-    "peknem": "BABY-BOT",
-    "CeerTod": "*BABY BOTZ VERIFIED*"
+    "autor": "DEVILBOTZ",
+    "peknem": "DEVIL-BOT",
+    "CeerTod": "*DEVIL BOTZ VERIFIED*"
 }
 
 ```
